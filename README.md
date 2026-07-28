@@ -31,7 +31,7 @@ I love learning new things and regularly experiment with new technologies. Thats
 #### 🔌 Open-source Vendure work
 
 - [`vex`](https://github.com/SpaceParrots/vex) - CLI tool and MCP for the Vendure Admin GraphQL API communication
-- [`vex`](https://github.com/SpaceParrots/nit) - Point-and-click website annotation that hands small UI fixes straight to a coding agent
+- [`nit`](https://github.com/SpaceParrots/nit) - Point-and-click website annotation that hands small UI fixes straight to a coding agent
 - [`vendure-nx`](https://github.com/vendurehq/vendure-nx) - real-world monorepository setup for vendure
 - Contributions across [vendurehq/vendure](https://github.com/vendurehq/vendure) and the wider ecosystem
 
