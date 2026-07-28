@@ -4,15 +4,15 @@ A fullstack engineer from Germany. I build with **[Vendure](https://www.vendure.
 
 #### 🌱 What I'm building
 
-- **[Fainin](https://fainin.com)** — a sharing-economy marketplace rethinking how we consume. The premise is simple: *sharing is the new owning* Less mass consumption, more access for the things people only really use a few times. Earn money with unused items or rent it for only a fraction of the buying price.
+- **[Fainin](https://fainin.com)** - a sharing-economy marketplace rethinking how we consume. The premise is simple: *sharing is the new owning* Less mass consumption, more access for the things people only really use a few times. Earn money with unused items or rent it for only a fraction of the buying price.
 - **[SpaceParrots](https://github.com/SpaceParrots)** My company I do freelance work with helping small and local businesses get a proper web presence — storefronts that fit their story instead of generic templates.
-- **AI in commerce.** Exploring how agents, LLMs, and MCP servers can make shops smarter — for merchants running them and customers buying from them.
+- **AI in commerce.** Exploring how agents, LLMs, and MCP servers can make shops smarter for merchants running them and customers buying from them.
 
 #### 🛠️ How I got here
 
 I've been coding since I was a teenager. What started as Minecraft minigame plugins turned into a small business, then a real startup. Along the way I've build on microchips, embedded systems, JVM services, native C++ desktop apps, Python automation tools, and a quick detour through Rust.
 
-Today my focus is the web — with deep specialization in Vendure and Angular (yes, I also do React), core contributions and extensions.
+Today my focus is the web with deep specialization in Vendure and Angular (yes, I also do React), core contributions and extensions.
 I love learning new things and regularly experiment with new technologies. Thats why I can confidentially plan, build, deploy apps from scratch and furthermore share the knowledge how to operate and extend it. 
 
 #### 🧰 Tech I work with
@@ -30,8 +30,9 @@ I love learning new things and regularly experiment with new technologies. Thats
 
 #### 🔌 Open-source Vendure work
 
-- [`vex`](https://github.com/SpaceParrots/vex) — CLI tool and MCP for the Vendure Admin GraphQL API communication
-- [`vendure-nx`](https://github.com/vendurehq/vendure-nx) — real-world monorepository setup for vendure
+- [`vex`](https://github.com/SpaceParrots/vex) - CLI tool and MCP for the Vendure Admin GraphQL API communication
+- [`vex`](https://github.com/SpaceParrots/nit) - Point-and-click website annotation that hands small UI fixes straight to a coding agent
+- [`vendure-nx`](https://github.com/vendurehq/vendure-nx) - real-world monorepository setup for vendure
 - Contributions across [vendurehq/vendure](https://github.com/vendurehq/vendure) and the wider ecosystem
 
 #### 📫 Find me
