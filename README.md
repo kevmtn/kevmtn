@@ -34,6 +34,7 @@ I love learning new things and regularly experiment with new technologies. Thats
 - [`nit`](https://github.com/SpaceParrots/nit) - Point-and-click website annotation that hands small UI fixes straight to a coding agent
 - [`vendure-nx`](https://github.com/vendurehq/vendure-nx) - real-world monorepository setup for vendure
 - Contributions across [vendurehq/vendure](https://github.com/vendurehq/vendure) and the wider ecosystem
+- Contributions for [wmux](https://github.com/amirlehmam/wmux) - the cmux alternative for windows
 
 #### 📫 Find me
 
